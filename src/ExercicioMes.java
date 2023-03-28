@@ -2,6 +2,11 @@ import java.util.Scanner;
 
 public class ExercicioMes {
 
+     /*criar um simples projeto em java com if  que exiba
+     o mes do ano de acordo com seu  numero, evite o efeito flecha,
+     faça outro if que verifique se o mes eh julho, dezembro ou janeiro,
+     para assim exibir o texto "ferias"*/
+
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Digite um número de 1 a 12 para representar o mês do ano:");
