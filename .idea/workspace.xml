@@ -1,11 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="6dad755f-fe6c-417b-b604-0ee2001a7a89" name="Changes" comment="" />
+    <list default="true" id="6dad755f-fe6c-417b-b604-0ee2001a7a89" name="Changes" comment="Exercicios controle de fluxo e operadores logicos.">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Metodos/Exercicios/ExMetodosHoraDia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Metodos/Exercicios/ExMetodosOpMath.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExFatorial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ControleFluxo/Exercicios/ExFatorial.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExNumMaior.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ControleFluxo/Exercicios/ExNumMaior.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExPosNeg.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ControleFluxo/Exercicios/ExPosNeg.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExVogalCons.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ControleFluxo/Exercicios/ExVogalCons.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExVoto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ControleFluxo/Exercicios/ExVoto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExercicioMes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ControleFluxo/Exercicios/ExercicioMes.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="ef852b02-f826-4c64-8b50-d9e92532b8ee" />
+        <option name="url" value="https://github.com/Giulian-Nunes/ExerciciosJAVABP.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2Nf0UUP4FtyZFQykEUeOoV7FXQP" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -16,9 +57,80 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/Tes/Desktop/dio/estruturaDeDadosJavaDio-main",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\JAVA BP\ExerciciosJAVABP\src\ControleFluxo\Exercicios" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="ControleFluxo.Exercicios" />
+      <recent name="Exercicios.Metodos.Dio" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ExMetodosHoraDia">
+    <configuration name="ExFatorial" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ControleFluxo.Exercicios.ExFatorial" />
+      <module name="ExerciciosJAVABP" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExMetodosHoraDia" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Metodos.Exercicios.ExMetodosHoraDia" />
+      <module name="ExerciciosJAVABP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Metodos.Exercicios.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExMetodosOpMath" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercicios.Metodos.Dio.ExMetodosOpMath" />
+      <module name="ExerciciosJAVABP" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExNumMaior" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ControleFluxo.Exercicios.ExNumMaior" />
+      <module name="ExerciciosJAVABP" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExVogalCons" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ControleFluxo.Exercicios.ExVogalCons" />
+      <module name="ExerciciosJAVABP" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExVoto" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ControleFluxo.Exercicios.ExVoto" />
+      <module name="ExerciciosJAVABP" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ExMetodosHoraDia" />
+        <item itemvalue="Application.ExMetodosOpMath" />
+        <item itemvalue="Application.ExVoto" />
+        <item itemvalue="Application.ExVogalCons" />
+        <item itemvalue="Application.ExNumMaior" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -28,6 +140,51 @@
       <option name="presentableId" value="Default" />
       <updated>1680039845566</updated>
     </task>
+    <task id="LOCAL-00001" summary="Exercicio controle de fluxo e operadores logicos.">
+      <created>1680040080487</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1680040080487</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Exercicio controle de fluxo e operadores logicos.">
+      <created>1680040169793</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1680040169793</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Exercicio controle de fluxo e operadores logicos.">
+      <created>1680040426835</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1680040426835</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Exercicios controle de fluxo e operadores logicos.">
+      <created>1680065115656</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1680065115656</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Exercicio controle de fluxo e operadores logicos." />
+    <MESSAGE value="Exercicios controle de fluxo e operadores logicos." />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercicios controle de fluxo e operadores logicos." />
   </component>
 </project>

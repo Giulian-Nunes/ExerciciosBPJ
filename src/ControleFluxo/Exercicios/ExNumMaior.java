@@ -1,3 +1,5 @@
+package ControleFluxo.Exercicios;
+
 import java.util.Scanner;
 
 //Escreva um programa em Java que receba três números e determine qual é o maior.

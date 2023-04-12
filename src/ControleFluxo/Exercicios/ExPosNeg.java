@@ -1,3 +1,5 @@
+package ControleFluxo.Exercicios;
+
 import java.util.Scanner;
 
 //Escreva um programa em Java que receba um número inteiro e verifique se ele é positivo,

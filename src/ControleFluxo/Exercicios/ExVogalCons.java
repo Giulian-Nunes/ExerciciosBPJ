@@ -1,3 +1,5 @@
+package ControleFluxo.Exercicios;
+
 import java.util.Scanner;
 
 public class ExVogalCons {
